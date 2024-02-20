@@ -1,5 +1,7 @@
-### Hi there 👋
+# About me
 
+Hi, I'm Reecha
+<!-- and
 <!--
 **Reecha0907/Reecha0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
